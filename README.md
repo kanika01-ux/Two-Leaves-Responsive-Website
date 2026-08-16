@@ -6,8 +6,6 @@ A modern, responsive tea brand website built using **HTML5 and CSS3**, inspired 
 
 [**View Live Website**](https://kanika01-ux.github.io/Two-Leaves-Responsive-Website/)
 
-> Note: The live URL will work after GitHub Pages is enabled for this repository.
-
 ## ⚠️ Disclaimer
 
 This project is a **frontend recreation inspired by the Two Leaves Tea website** and was created solely for educational, learning, and portfolio purposes.
